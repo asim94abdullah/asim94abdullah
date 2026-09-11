@@ -1,219 +1,357 @@
 # 🌟 Asim Abdullah — React Native Developer
 
-🚀 **Building High-Performance Mobile Apps for Android & iOS**  
-🎯 **Expert in Debugging | Clean Code | Reusable Components**  
-📍 Based in Islamabad, Pakistan | 🌍 Available for freelance projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=React+Native+Developer;Cross-Platform+Mobile+App+Developer;Building+High-Performance+Mobile+Apps" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>🚀 Building High-Performance Mobile Apps for Android & iOS</strong>
+  <br />
+  <strong>🎯 Clean Code | Reusable Components | Debugging | Performance Optimization</strong>
+</p>
+
+<p align="center">
+  📍 Islamabad, Pakistan &nbsp; | &nbsp; 🌍 Available for freelance projects
+</p>
 
 ---
 
-## 🔥 About Me
+## 👨‍💻 About Me
 
-I’m a **React Native Developer** with over **5 years of experience**, specializing in creating **scalable**, **user-friendly**, and **efficient mobile applications**. My focus is on delivering **high-quality solutions** by crafting **reusable components**, optimizing performance, and implementing clean code architecture.
+I’m a **React Native Developer** specializing in building **scalable, user-friendly, and high-performance mobile applications** for Android and iOS.
 
-If you’re looking for a **dedicated developer** who can turn your ideas into reality, you’re in the right place!
+My focus is on developing production-ready applications using **React Native, Expo, TypeScript, Redux Toolkit, Firebase, REST APIs, real-time communication, push notifications, payment integrations, and AI-powered features**.
+
+I enjoy solving complex technical problems, optimizing application performance, creating reusable components, and turning ideas into reliable real-world products.
 
 ---
 
 ## 🚀 Tech Stack & Expertise
 
-I leverage the latest technologies to create high-performance mobile apps for Android and iOS using the **React Native** framework. Below are the key technologies I work with:
+### 📱 Mobile Development
 
-### 🛠️ **Core Technologies**
+* **React Native** — CLI, Expo, Expo Router
+* **Android & iOS** — Cross-platform application development
+* **TypeScript & JavaScript**
 
-- **React Native** (CLI, Expo, Expo Router)
-- **Languages:** JavaScript, TypeScript
-- **State Management:** Redux Toolkit (RTK Query), TanStack Query, Zustand.
+### 🧠 State Management
 
-### ⚙️ **Backend & Integrations**
+* **Redux Toolkit**
+* **RTK Query**
+* **Redux Saga**
+* **TanStack Query**
+* **Zustand**
+* **Context API**
 
-- **Firebase** (Auth, Firestore, Storage, Cloud Functions)
-- **Push Notifications:** FCM, OneSignal
-- **Real-Time Communication:** Socket.IO, Action Cable (for chats, event-based gateways)
-- **Payments & Subscriptions:** Stripe, In-app purchases
-- **Conversational AI:** ChatGPT Integration
+### ⚙️ Backend & API Integration
 
-### 🌍 **Maps & Location Services**
+* **REST APIs**
+* **Axios**
+* **Firebase Authentication**
+* **Firestore**
+* **Firebase Storage**
+* **Firebase Cloud Functions**
 
-- **Map Services:** Google Maps, Mapbox
+### 🔔 Notifications & Real-Time
 
-### 📞 **Real-Time Communication**
+* **Firebase Cloud Messaging (FCM)**
+* **OneSignal**
+* **Socket.IO**
+* **Action Cable**
+* **Push Notifications**
+* **Real-Time Communication**
 
-- **Audio/Video Calling & Live Streaming:** Agora
+### 💳 Payments & Subscriptions
 
-### 💾 **Local Data Storage**
+* **Stripe**
+* **In-App Purchases**
+* **Subscription Integration**
 
-- **Database:** Realm DB (for high-performance offline-first apps)
+### 🤖 AI & Machine Learning
 
-### 🧑‍💻 **Version Control & Collaboration**
+* **ChatGPT API Integration**
+* **Conversational AI**
+* **AI-based Face Recognition**
+* **Object Detection**
 
-- **Git & GitHub:** Proper branching strategies for code collaboration
+### 🗺️ Maps & Location
 
-### 🧑‍💻 **Other Skills & Tools**
+* **Google Maps**
+* **Mapbox**
+* **Location Services**
+* **Geofencing**
 
-- **Debugging & Optimization:** Expertise in solving complex bugs, performance tuning, and clean architecture
-- **CI/CD Tools:** GitHub Actions, Expo Build
+### 📞 Audio & Video
 
----
+* **Agora**
+* **Audio Calling**
+* **Video Calling**
+* **Live Streaming**
 
-🌟 Featured Projects
-📱 Dastak — Government Services Platform
+### 💾 Local Storage & Database
 
-Dastak is a government services mobile application that provides citizens with easy and rapid access to different government services through a single mobile platform. The application is published by the Khyber Pakhtunkhwa Information Technology Board and currently has 1M+ downloads on Google Play.
+* **Realm DB**
+* **AsyncStorage**
+* **Secure Storage**
+* **Offline-first Applications**
 
-✨ Key Features
-🏛️ Access to multiple government services
-📝 Online service applications
-📋 Multi-step application workflows
-📊 Application tracking
-🔔 Real-time application notifications
-📄 Document and attachment management
-🔐 Secure authentication and data handling
-🔄 Application status and deficiency workflows
-📱 User-friendly mobile experience
-🛠️ Technologies
+### 🛠️ Tools & DevOps
 
-React Native Expo Redux Toolkit RTK Query Firebase FCM REST APIs Axios
-
-🔗 Live Application
-📱 View Dastak on Google Play
-
-
-💳 Digital Muhasil — Digital Payment Collection
-
-Digital Muhasil is a unified digital gateway designed to streamline the collection of revenue, fines, and taxes through smart e-payments. It is designed for official use by government officials of the Khyber Pakhtunkhwa government.
-
-✨ Key Features
-💰 Digital revenue collection
-💳 Smart e-payment workflows
-🧾 Revenue, fine and tax management
-📊 Transaction tracking
-🔐 Secure payment processing
-🏛️ Government-focused workflows
-🖨️ Thermal printer integration
-🔔 Push notifications
-📱 Efficient and transparent collection workflow
-🛠️ Technologies
-
-React Native Redux Toolkit RTK Query Firebase FCM REST APIs Axios Secure Storage Thermal Printer
-
-🔗 Live Application
-📱 View Digital Muhasil on Google Play
-
-🤖 Smart Attendance Platform — AI Facial Recognition
-
-Smart Attendance Platform is an AI-based attendance management application designed for organizations. Employees can mark attendance using facial recognition while location-based security ensures attendance can be performed within authorized office premises. The application currently has 50K+ downloads on Google Play.
-
-✨ Key Features
-🤖 AI-based facial recognition
-📸 Face-based attendance
-📍 Location-restricted attendance
-🕐 Check-in / Check-out
-📝 Leave request management
-📊 Attendance summaries
-📅 Presence, absence, leave and holiday tracking
-🔔 Real-time notifications
-🌐 Remote attendance support
-🔐 Location-based security
-📱 Simple and user-friendly interface
-🛠️ Technologies
-
-React Native Redux Axios Firebase Cloud Messaging AI Face Recognition Location Services
-
-🔗 Live Application
-📱 View Smart Attendance on Google Play
-
-🗣️ EKHTYAR — Citizen Complaint & Feedback Platform
-
-EKHTYAR is a citizen-focused application that enables people in Khyber Pakhtunkhwa to submit complaints and report issues directly to government departments. Citizens can track their complaints and receive updates throughout the resolution process. The application currently has 10K+ downloads on Google Play.
-
-✨ Key Features
-📝 Easy complaint submission
-🏛️ Department-wise complaint reporting
-📊 Complaint status tracking
-🔔 Real-time notifications
-🔄 Complaint progress updates
-🔐 Secure and confidential information handling
-💬 Direct communication with government officials
-📍 Location-based functionality
-📱 Simple and intuitive interface
-🛠️ Technologies
-
-React Native Redux REST APIs Axios Firebase Cloud Messaging Location Services
-
-🔗 Live Application
-📱 View EKHTYAR on Google Play
-
-💧 E-Irrigation — Irrigation Department Platform
-
-E-Irrigation is an official mobile application developed for the Irrigation Department of Khyber Pakhtunkhwa. The application supports departmental workflows and monitoring activities. The Google Play listing identifies it as an official-use application.
-
-✨ Key Features
-🏛️ Official Irrigation Department application
-🔐 Secure login
-📊 Monitoring workflows
-📋 Digital monitoring proformas
-🔄 Departmental data management
-📱 Mobile-based field/department operations
-⚡ Smooth authentication experience
-🛠️ Technologies
-
-React Native Redux REST APIs Axios Firebase Authentication
-
-🔗 Live Application
-📱 View E-Irrigation on Google Play
+* **Git & GitHub**
+* **GitHub Actions**
+* **Expo Build**
+* **Android Studio**
+* **Xcode**
+* **VS Code**
 
 ---
 
-## 💼 Work Experience
+# 🌟 Featured Projects
 
-- **React Native Developer at AppTech Media** _(September 2025 – Present)_
+## 📱 Dastak — Government Services Platform
 
-  - Design, develop, and maintain scalable, high-performance crossplatform mobile applications using React Native, delivering seamless
-    and consistent user experiences across both iOS and Android platforms.
-  - Collaborate effectively with cross-functional teams, including UI/UX designers, product managers, and backend engineers, to conceptualize,       design, and implement innovative and user-centric features aligned with business objectives.
-  - Produce clean, well-structured, and maintainable code by adhering to industry standards and best practices, ensuring long-term scalability,      readability, and ease of maintenance.
-  - Proactively identify, analyze, and resolve technical issues and performance bottlenecks, ensuring application stability, reliability,
-    and an optimized end-user experience.
+**Dastak** is a government services mobile application designed to provide citizens with easy and rapid access to different government services through a single mobile platform.
 
-- **React Native Developer at WQ Software** _(August 2024 – August 2025)_
+The application provides digital access to government services and allows users to submit applications, upload required documents, track application progress, and receive status updates.
 
-  - Developed and maintained high-quality mobile applications using React Native for both iOS and Android platforms.
-  - Collaborated with cross-functional teams including designers,product managers, and backend developers to define, design, and ship new            features.
-  - Wrote clean, maintainable, and efficient code while adhering to best practices and coding standards.
-  - Troubleshot and debugged applications to resolve issues and improve overall performance.
-  - Optimized application performance to ensure smooth and responsive user experiences.
-  - Participated in code reviews to maintain code quality and ensure adherence to established coding standards.
-  - Worked on state management using tools like Redux or Context API for efficient data handling.
-  - Actively contributed to the Agile development process, including sprint planning, daily stand-ups, and retrospectives, ensuring efficient
-    collaboration and timely delivery of features.
+### ✨ Key Features
 
-- **React Native Intern at Intelgency IT Solution** _(November 2021 – July 2024)_
-  - Design, develop, and maintain high-performance cross-platform mobile applications using React Native, ensuring a seamless user
-    experience across iOS and Android.
-  - Collaborate with cross-functional teams, including designers, product managers, and backend developers, to define, design, and deliver
-    innovative features.
-  - Write clean, maintainable, and efficient code following industry best practices to enhance code quality and scalability.
-  - Identify, troubleshoot, and resolve application issues, ensuring stability, reliability, and optimal performance.
-  - Continuously optimize application performance by implementing best practices in memory management, rendering, and API efficiency.
-  - Participate in code reviews, enforce coding standards, and contribute to a culture of continuous improvement and knowledge sharing.
- 
-- **React Native Intern at Tech Chap** _(April 2021 – November 2024)_
-  - Designed, developed, and maintained high-performance crossplatform mobile applications using React Native, ensuring seamless
-    functionality on both Android and iOS.
-  - Collaborated closely with UI/UX designers to implement visually appealing, intuitive, and user-friendly interfaces that enhance user
-    engagement.
-  - Leveraged Git for version control, actively participating in code reviews to maintain high code quality and ensure efficient team
-    collaboration.
-  - Integrated key features such as push notifications and in-app purchases, enhancing user experience and driving app monetization.
- 
-- **React Native Intern at HG Logic** _(December 2016 – March 2018)_
-  - Designed, developed, and maintained high-performance mobile applications for the Android platform using Java and the Android SDK.
-  - Collaborated closely with UI/UX designers to implement visually appealing, intuitive, and user-friendly interfaces that enhance user
-    engagement.
-  - Leveraged Android Studio as the primary development environment and utilized Git for efficient version control and collaboration.
-  - Worked closely with UI/UX designers and backend developers to deliver seamless, user-centric applications while ensuring timely
-    project completion.
+* 🏛️ Access to multiple government services
+* 📝 Online service applications
+* 📋 Multi-step application workflows
+* 📊 Application tracking
+* 🔔 Real-time application notifications
+* 📄 Dynamic document and attachment management
+* 🔐 Secure authentication and data handling
+* 🔄 Application status and deficiency workflows
+* 📱 User-friendly mobile experience
+
+### 🛠️ Technologies
+
+`React Native` `Expo` `Redux Toolkit` `RTK Query` `Firebase` `FCM` `REST APIs` `Axios`
+
+### 🔗 Live Application
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Dastak-414141?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.kp_service_delivery_portal)
+
+**[📱 View Dastak on Google Play →](https://play.google.com/store/apps/details?id=com.kp_service_delivery_portal)**
 
 ---
 
-_Click on any project to learn more!_ Let’s collaborate and build apps that make a difference.
+## 💳 Digital Muhasil — Digital Payment Collection
+
+**Digital Muhasil** is a unified digital payment collection platform designed to streamline the collection of **revenue, fines, and taxes through smart e-payments**.
+
+The application is designed for government officials and supports secure digital payment workflows, transaction tracking, and centralized collection management.
+
+### ✨ Key Features
+
+* 💰 Digital revenue collection
+* 💳 Smart e-payment workflows
+* 🧾 Revenue, fine, and tax management
+* 📊 Transaction tracking
+* 🔐 Secure payment processing
+* 🏛️ Government-focused workflows
+* 🖨️ Thermal printer integration
+* 🔔 Push notifications
+* 📱 Efficient and transparent collection workflow
+
+### 🛠️ Technologies
+
+`React Native` `Redux Toolkit` `RTK Query` `Firebase` `FCM` `REST APIs` `Axios` `Secure Storage` `Thermal Printer`
+
+### 🔗 Live Application
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Digital%20Muhasil-414141?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.digital_muhasil)
+
+**[📱 View Digital Muhasil on Google Play →](https://play.google.com/store/apps/details?id=com.digital_muhasil)**
+
+---
+
+## 🤖 Smart Attendance Platform — AI Facial Recognition
+
+**Smart Attendance Platform** is an AI-based attendance management application designed for organizations.
+
+Employees can mark attendance using **facial recognition**, while location-based security ensures that attendance can only be performed within authorized office premises.
+
+### ✨ Key Features
+
+* 🤖 AI-based facial recognition
+* 📸 Face-based attendance
+* 📍 Location-restricted attendance
+* 🕐 Check-in / Check-out
+* 📝 Leave request management
+* 📊 Attendance summaries
+* 📅 Presence, absence, leave, and holiday tracking
+* 🔔 Real-time notifications
+* 🌐 Remote attendance support
+* 🔐 Location-based security
+* 📱 Simple and user-friendly interface
+
+### 🛠️ Technologies
+
+`React Native` `Redux` `Axios` `Firebase Cloud Messaging` `AI Face Recognition` `Location Services`
+
+### 🔗 Live Application
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Smart%20Attendance-414141?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.kpitb.attendance.oneteam)
+
+**[📱 View Smart Attendance on Google Play →](https://play.google.com/store/apps/details?id=com.kpitb.attendance.oneteam)**
+
+---
+
+## 🗣️ EKHTYAR — Citizen Complaint & Feedback Platform
+
+**EKHTYAR** is a citizen-focused application designed to help people submit complaints and report issues to government departments.
+
+The application provides a digital platform for complaint submission, tracking, and communication between citizens and relevant departments.
+
+### ✨ Key Features
+
+* 📝 Easy complaint submission
+* 🏛️ Department-wise complaint reporting
+* 📊 Complaint status tracking
+* 🔔 Real-time notifications
+* 🔄 Complaint progress updates
+* 🔐 Secure information handling
+* 💬 Communication with government officials
+* 📍 Location-based functionality
+* 📱 Simple and intuitive interface
+
+### 🛠️ Technologies
+
+`React Native` `Redux` `REST APIs` `Axios` `Firebase Cloud Messaging` `Location Services`
+
+### 🔗 Live Application
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-EKHTYAR-414141?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=kpitb.ekhtyar)
+
+**[📱 View EKHTYAR on Google Play →](https://play.google.com/store/apps/details?id=kpitb.ekhtyar)**
+
+---
+
+## 💧 E-Irrigation — Irrigation Department Platform
+
+**E-Irrigation** is a mobile application developed for the **Irrigation Department of Khyber Pakhtunkhwa**, supporting digital departmental workflows and monitoring activities.
+
+The application provides mobile-based access to departmental processes and monitoring functionality.
+
+### ✨ Key Features
+
+* 🏛️ Irrigation Department application
+* 🔐 Secure authentication
+* 📊 Monitoring workflows
+* 📋 Digital monitoring proformas
+* 🔄 Departmental data management
+* 📱 Mobile-based field and departmental operations
+* ⚡ Smooth authentication experience
+
+### 🛠️ Technologies
+
+`React Native` `Redux` `REST APIs` `Axios` `Firebase Authentication`
+
+### 🔗 Live Application
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-E--Irrigation-414141?style=for-the-badge\&logo=google-play)](https://play.google.com/store/apps/details?id=com.reliefpulse)
+
+**[📱 View E-Irrigation on Google Play →](https://play.google.com/store/apps/details?id=com.reliefpulse)**
+
+> **Note:** The Google Play package ID `com.reliefpulse` currently corresponds to the E-Irrigation application.
+
+---
+
+# 💼 Work Experience
+
+## 🚀 React Native Developer — AppTech Media
+
+**September 2025 – Present**
+
+* Design, develop, and maintain scalable, high-performance cross-platform mobile applications using **React Native**.
+* Deliver seamless and consistent user experiences across **Android and iOS**.
+* Collaborate with UI/UX designers, product managers, and backend engineers.
+* Develop innovative and user-centric features aligned with business requirements.
+* Write clean, structured, and maintainable code.
+* Identify and resolve technical issues and performance bottlenecks.
+* Optimize applications for stability, reliability, and performance.
+
+---
+
+## 💻 React Native Developer — WQ Software
+
+**August 2024 – August 2025**
+
+* Developed and maintained high-quality mobile applications using **React Native**.
+* Collaborated with designers, product managers, and backend developers.
+* Designed and implemented new application features.
+* Wrote clean, maintainable, and efficient code.
+* Troubleshot and debugged applications.
+* Improved application performance and responsiveness.
+* Participated in code reviews.
+* Worked with **Redux and Context API** for state management.
+* Participated in Agile development processes including sprint planning, stand-ups, and retrospectives.
+
+---
+
+## 👨‍💻 React Native Intern — Intelgency IT Solution
+
+**November 2021 – July 2024**
+
+* Developed high-performance cross-platform mobile applications using **React Native**.
+* Collaborated with designers, product managers, and backend developers.
+* Implemented innovative application features.
+* Followed clean code and development best practices.
+* Troubleshot and resolved application issues.
+* Optimized application performance.
+* Participated in code reviews and continuous improvement.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-arham-dev&show_icons=true&hide_border=true" alt="Asim's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-arham-dev&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+# 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muhammad-arham-dev" alt="GitHub Streak" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:asim94abdullah@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/asim-abdullah/">
+  <img src="https://img.shields.io/badge/LinkedIn-Asim%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/muhammad-arham-dev">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</p>
+
+---
+
+# 🚀 Let's Build Something Amazing
+
+I'm always interested in working on **innovative mobile applications, AI-powered products, government digital solutions, and new technologies**.
+
+If you have an idea, let's turn it into a **real-world application**. 🚀
+
+<p align="center">
+  ⭐ <strong>If you find my projects useful, consider giving them a star!</strong> ⭐
+</p>
