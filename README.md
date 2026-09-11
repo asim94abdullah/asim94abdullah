@@ -55,119 +55,112 @@ I leverage the latest technologies to create high-performance mobile apps for An
 
 ---
 
-## 🌟 Featured Projects
+🌟 Featured Projects
+📱 Dastak — Government Services Platform
 
-### 📱 **Dastak**
+Dastak is a government services mobile application that provides citizens with easy and rapid access to different government services through a single mobile platform. The application is published by the Khyber Pakhtunkhwa Information Technology Board and currently has 1M+ downloads on Google Play.
 
-**Description:** Dastak is a productivity application designed to facilitate easy and rapid access to various government services. The app aims to streamline the process of obtaining government services, ensuring users receive timely responses.
--User Authentication: Secure sign-up and login using CNIC (Computerized National Identity Card).
--Service Applications: Users can apply for various government services, including:
--1. Arms License Application
--2. Driving License Tracking
--3. Housing Foundation Application
--Application Tracking: Users can monitor the status of their submitted applications, especially for arms licenses, to view progress updates
- and actions taken.
--Real-time Notifications: Users receive updates about their application status, approvals, or required actions.
--Secure Data Handling: Ensures privacy and security compliance for sensitive user data.
--User-friendly Interface: Simplifies government service access with an intuitive mobile experience.
+✨ Key Features
+🏛️ Access to multiple government services
+📝 Online service applications
+📋 Multi-step application workflows
+📊 Application tracking
+🔔 Real-time application notifications
+📄 Document and attachment management
+🔐 Secure authentication and data handling
+🔄 Application status and deficiency workflows
+📱 User-friendly mobile experience
+🛠️ Technologies
 
-- **Features:** Secure CNIC-based authentication, government service applications, application status tracking, real-time notifications, secure                  data handling, and user-friendly interface
-- **Tech Used:** React Native, Redux, RTK Query, Firebase Cloud Messaging (FCM), REST APIs,Axios.
+React Native Expo Redux Toolkit RTK Query Firebase FCM REST APIs Axios
 
-[![MyVists](https://play.google.com/store/apps/details?id=com.kp_service_delivery_portal)]
+🔗 Live Application
+📱 View Dastak on Google Play
 
----
 
-### 🛠️ **Smart Attendance Platform**
+💳 Digital Muhasil — Digital Payment Collection
 
-**Description:** Introducing your smart attendance companion — a powerful AI-based facial recognition system designed for offices. Employees can mark attendance using face detection, ensuring secure check-ins within the office location only. No need for manual entries — just show up, smile, and you're marked present.
+Digital Muhasil is a unified digital gateway designed to streamline the collection of revenue, fines, and taxes through smart e-payments. It is designed for official use by government officials of the Khyber Pakhtunkhwa government.
 
---Key Features:
+✨ Key Features
+💰 Digital revenue collection
+💳 Smart e-payment workflows
+🧾 Revenue, fine and tax management
+📊 Transaction tracking
+🔐 Secure payment processing
+🏛️ Government-focused workflows
+🖨️ Thermal printer integration
+🔔 Push notifications
+📱 Efficient and transparent collection workflow
+🛠️ Technologies
 
--Face-based Attendance – Mark presence with secure AI face recognition.
+React Native Redux Toolkit RTK Query Firebase FCM REST APIs Axios Secure Storage Thermal Printer
 
--Location Locked – Attendance only possible within office premises.
+🔗 Live Application
+📱 View Digital Muhasil on Google Play
 
--Leave Requests – Apply for leaves directly through the app.
+🤖 Smart Attendance Platform — AI Facial Recognition
 
--Attendance Summary – View presence, absents, leaves, and holidays.
+Smart Attendance Platform is an AI-based attendance management application designed for organizations. Employees can mark attendance using facial recognition while location-based security ensures attendance can be performed within authorized office premises. The application currently has 50K+ downloads on Google Play.
 
--Smart AI Technology – Fast, accurate, and secure system.
+✨ Key Features
+🤖 AI-based facial recognition
+📸 Face-based attendance
+📍 Location-restricted attendance
+🕐 Check-in / Check-out
+📝 Leave request management
+📊 Attendance summaries
+📅 Presence, absence, leave and holiday tracking
+🔔 Real-time notifications
+🌐 Remote attendance support
+🔐 Location-based security
+📱 Simple and user-friendly interface
+🛠️ Technologies
 
--User Friendly – Simple interface with real-time tracking.
+React Native Redux Axios Firebase Cloud Messaging AI Face Recognition Location Services
 
--Ideal for modern organizations aiming to digitize attendance and boost efficiency with cutting-edge technology.
+🔗 Live Application
+📱 View Smart Attendance on Google Play
 
-- **Features:** Intuitive UI, streamlined attendance system, reusable and modular components
-- **Tech Used:** React Native, Axios, Firebase Cloud Messaging (FCM), Redux
+🗣️ EKHTYAR — Citizen Complaint & Feedback Platform
 
-[![Major Lift](https://play.google.com/store/apps/details?id=com.kpitb.attendance.oneteam)]
+EKHTYAR is a citizen-focused application that enables people in Khyber Pakhtunkhwa to submit complaints and report issues directly to government departments. Citizens can track their complaints and receive updates throughout the resolution process. The application currently has 10K+ downloads on Google Play.
 
----
+✨ Key Features
+📝 Easy complaint submission
+🏛️ Department-wise complaint reporting
+📊 Complaint status tracking
+🔔 Real-time notifications
+🔄 Complaint progress updates
+🔐 Secure and confidential information handling
+💬 Direct communication with government officials
+📍 Location-based functionality
+📱 Simple and intuitive interface
+🛠️ Technologies
 
-### 📋 **Digital Muhasil**
+React Native Redux REST APIs Axios Firebase Cloud Messaging Location Services
 
-**Description:** Transform fine collection with Digital Muhasil, a unified digital gateway designed to streamline the collection of revenue, fines, and taxes through smart e-payments. Experience a seamless, efficient, and transparent system tailored for modern governance. Digital Muhasil is designed for use by government officials of the Khyber Pakhtunkhwa government, providing them with a cutting-edge, unified digital payment collection platform.
+🔗 Live Application
+📱 View EKHTYAR on Google Play
 
-- **Features:** Unified digital payment collection, smart e-payments for revenue, fines, and taxes, transparent transaction tracking, secure                     payment processing, centralized collection management, and government-focused workflow
-- **Tech Used:** React Native, Redux, RTK Query, Firebase Cloud Messaging (FCM), REST APIs, Secure Storage, Thermal Printer.
+💧 E-Irrigation — Irrigation Department Platform
 
-[![Unihub](https://play-lh.googleusercontent.com/JsHojcP3k7pih_zF4JOq5VK39lQCTPdJJHHuE4wnPj2QN1hPZgIx8WdEzbcaBE2JU7c=w480-h960-rw)]([https://play.google.com/store/apps/details?id=com.unihub&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.digital_muhasil))
+E-Irrigation is an official mobile application developed for the Irrigation Department of Khyber Pakhtunkhwa. The application supports departmental workflows and monitoring activities. The Google Play listing identifies it as an official-use application.
 
----
+✨ Key Features
+🏛️ Official Irrigation Department application
+🔐 Secure login
+📊 Monitoring workflows
+📋 Digital monitoring proformas
+🔄 Departmental data management
+📱 Mobile-based field/department operations
+⚡ Smooth authentication experience
+🛠️ Technologies
 
-### 🛠️ **Unihub Services**
+React Native Redux REST APIs Axios Firebase Authentication
 
-**Description:** UniHub Services is the seller-focused counterpart of UniHub, empowering
-users to manage their listings, track sales, and enhance their reach. The app integrates
-in-app purchases and Stripe for seamless payment processing, providing a secure and
-efficient way for sellers to monetize their offerings.
-
-- **Features:** User-friendly design, seamless navigation, reusable components for easy order management
-- **Tech Used:** React Native, Stripe Integration, Firebase Cloud Messaging (FCM), Redux
-
-[![Unihub Services](https://play-lh.googleusercontent.com/sMM3pdHhWpf0yQy49lyWaIx_kSAy9ZkstkkrOdDAAWM2lqoi02u2DBgwxWfG6B_yyg=w480-h960-rw)](https://play.google.com/store/apps/details?id=com.unihubservices&pcampaignid=web_share)
-
----
-
-### 🛠️ **Beetkom**
-
-**Description:** Beetkom is a property listing app where admins can post properties
-available for rent or sale, complete with detailed descriptions, facilities, and photos.
-Users can explore a wide range of properties, filter based on their preferences, and
-contact the admin directly if interested, making the process of finding a desired property
-seamless and efficient.
-
-- **Features:** Intuitive UI, filterable listings, direct admin contact, modular and reusable components
-- **Tech Used:** React Native, Redux, Localization (i18n), Firebase Social Login
-
-[![Beetkom](https://play-lh.googleusercontent.com/ZDjwIGFWTNWRPBoVCwF3kf6iohpEP6rCLxiBbfGTwYSyxzY9x0k2oPVDQD17Ysy82KQ=w480-h960-rw)](https://play.google.com/store/apps/details?id=io.beetkom&pcampaignid=web_share)
-
----
-
-### 🛠️ **PELP**
-
-**Description:** PELP is an app designed for English language learners, offering a
-comprehensive learning experience. Users can subscribe to the course to access daily
-recorded lectures, take tests, and complete MCQs to track their progress. The app also
-features a microphone tool to enhance vocabulary learning, providing an interactive and
-effective way to improve English language skills.
-
-- **Features:** Intuitive UI, filterable listings, direct admin contact, modular and reusable components
-- **Tech Used:** React Native, Redux, Localization (i18n), Firebase Social Login
-
-[![PELP](https://play-lh.googleusercontent.com/RQQ31n6G7hWzyV21TYm-mvnxZNeu-GXOi3AVpck1i-AVXMdL7m134O6o4-DezfEe5A=w480-h960-rw)](https://play.google.com/store/apps/details?id=com.semantic.pelp&pcampaignid=web_share)
-
----
-
-## 🎯 Let’s Work Together!
-
-I help clients transform their ideas into **world-class mobile apps**.  
-**Let’s create something amazing!**
-
-📧 **Email:** [asim94abdullah@gmail.com](mailto:yahyashoaib112@gmail.com)  
-📱 **Phone:** +92-333-095-7072  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/asim-abdullah/](https://www.linkedin.com/in/asim-abdullah-71078388/)
+🔗 Live Application
+📱 View E-Irrigation on Google Play
 
 ---
 
