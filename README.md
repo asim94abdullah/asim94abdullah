@@ -317,11 +317,11 @@ The application provides mobile-based access to departmental processes and monit
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="[https://www.linkedin.com/in/asim-abdullah/](https://www.linkedin.com/in/asim-abdullah-71078388/)">
+<a href="[(https://www.linkedin.com/in/asim-abdullah-71078388/)](https://www.linkedin.com/in/asim-abdullah-71078388/)">
   <img src="https://img.shields.io/badge/LinkedIn-Asim%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="[https://github.com/muhammad-arham-dev](https://github.com/asim94abdullah)">
+<a href="[(https://github.com/asim94abdullah)]">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
