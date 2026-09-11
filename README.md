@@ -306,23 +306,6 @@ The application provides mobile-based access to departmental processes and monit
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-arham-dev&show_icons=true&hide_border=true" alt="Asim's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-arham-dev&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-# 📈 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhammad-arham-dev" alt="GitHub Streak" />
-</p>
 
 ---
 
@@ -334,11 +317,11 @@ The application provides mobile-based access to departmental processes and monit
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<a href="https://www.linkedin.com/in/asim-abdullah/">
+<a href="[https://www.linkedin.com/in/asim-abdullah/](https://www.linkedin.com/in/asim-abdullah-71078388/)">
   <img src="https://img.shields.io/badge/LinkedIn-Asim%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/muhammad-arham-dev">
+<a href="[https://github.com/muhammad-arham-dev](https://github.com/asim94abdullah)">
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
